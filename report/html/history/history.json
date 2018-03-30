@@ -1,0 +1,22 @@
+{
+  "c79643e4eccfa0698db27e5c5068044" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd01f82cdb494058",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1522378675725,
+        "stop" : 1522378675891,
+        "duration" : 166
+      }
+    } ]
+  }
+}

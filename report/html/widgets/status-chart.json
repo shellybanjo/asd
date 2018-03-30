@@ -1,0 +1,11 @@
+[ {
+  "uid" : "bd01f82cdb494058",
+  "name" : "Test_allure.test_al",
+  "time" : {
+    "start" : 1522378675725,
+    "stop" : 1522378675891,
+    "duration" : 166
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
